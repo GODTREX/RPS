@@ -103,5 +103,3 @@ MIT License
 > Made with ❤️ by GODTREX AKA Homie
 
 ---
-
-Let me know if you want me to generate a nice "badges" header section too (Python version, License, etc)! 🚀
